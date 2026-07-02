@@ -8,11 +8,11 @@
 </p>
 
 ## 📌 About Me
-- 🚀 A passionate Web Developer dedicated to building interactive, scalable, and user-centric web applications.
-- 💻 Constantly exploring new technologies, refining my coding skills, and crafting seamless digital experiences.
-- 🎓 Deeply interested in blending modern web technologies with cutting-edge AI/ML research.
-- 🤝 Believer in open-source culture and love collaborating on innovative community projects.
-- 🌟 Always aiming to solve complex problems with clean, efficient, and maintainable code.
+- 🚀  A passionate Web Developer dedicated to building interactive, scalable, and user-centric web applications.
+- 💻  Constantly exploring new technologies, refining my coding skills, and crafting seamless digital experiences.
+- 🎓  Deeply interested in blending modern web technologies with cutting-edge AI/ML research.
+- 🤝  Believer in open-source culture and love collaborating on innovative community projects.
+- 🌟  Always aiming to solve complex problems with clean, efficient, and maintainable code.
 
 
 ## 🧠 My Focus Areas
